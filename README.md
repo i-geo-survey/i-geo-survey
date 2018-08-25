@@ -1,1 +1,1 @@
-# i-geo-survey
+# I Geo Survey
